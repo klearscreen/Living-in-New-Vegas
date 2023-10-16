@@ -1,4 +1,4 @@
-# Re-upload note: the links are outdated and have not been sanitized. As of October 16 2023, the official link to the updated guide is [here].(https://vivanewvegas.moddinglinked.com/)
+# Re-upload note: the links are outdated and have not been sanitized. As of October 16 2023, the official link to the updated guide is [here](https://vivanewvegas.moddinglinked.com/).
 
 # [Living in New Vegas](https://livinginnewvegas.github.io/)
 
